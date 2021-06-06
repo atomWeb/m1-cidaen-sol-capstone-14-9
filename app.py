@@ -74,7 +74,7 @@ app.layout = html.Div([
             )
         ]),
         html.Div([
-            html.Img(src="https://es.wikipedia.org/wiki/Twitch#/media/Archivo:Twitch_logo_2019.svg",
+            html.Img(src="https://www.muycomputer.com/wp-content/uploads/2020/06/twitch.jpg",
                      style={"width": "100px"}),
             html.H2(
                 id='twitch-visit',
